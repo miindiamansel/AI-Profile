@@ -1,0 +1,15 @@
+.mainSlogan{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 1.5em;
+    flex-direction: column;
+}
+.japText{
+    font-family: 'Noto Sans JP', sans-serif;
+}
+.mainLogo{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
